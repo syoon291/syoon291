@@ -1,14 +1,14 @@
 ## Hi there! My name is Steven 👋
 #### I am a Sophmore
-![I am a Sophmore]()
+![I am a Sophmore](https://github.com/syoon291/syoon291/blob/main/gw_horizontal_2c.png)
 
 I am currently a Sophmore studying Computer Science Student at Geroge Washington University. 
 
 - 🔭 I’m currently working on a Winter Project 
-##### Sophmore Year Courses List: 
+#### Sophmore Year Courses List: 
 - 📚 1st Semester Courses: Computer Architecture I (CSCI 2461), Software Engineering (CSCI 2113), Discrete Structures II (CSCI 2312) 
 - 💻 2nd Semester Courses: Systems Engineering (CSCI 3410), Foundations of Computing (CSCI 3313), and Database Systems (CSCI 2541W)
-##### Skills/Languages
+#### Skills/Languages
 - 🖥 Java and C 
 - 👨‍💻 :D
 
