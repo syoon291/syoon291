@@ -6,8 +6,14 @@
 
 - 🔭 I’m currently working on a Winter Project 
 #### Sophmore Year Courses List: 
-- 📚 1st Semester Courses: Computer Architecture I (CSCI 2461), Software Engineering (CSCI 2113), Discrete Structures II (CSCI 2312) 
-- 💻 2nd Semester Courses: Systems Engineering (CSCI 3410), Foundations of Computing (CSCI 3313), and Database Systems (CSCI 2541W)
+- 📚 1st Semester Courses: 
+  - Computer Architecture I (CSCI 2461)
+  - Software Engineering (CSCI 2113)
+  - Discrete Structures II (CSCI 2312) 
+- 💻 2nd Semester Courses: 
+  - Systems Engineering (CSCI 3410)
+  - Foundations of Computing (CSCI 3313)
+  - Database Systems (CSCI 2541W)
 #### Skills/Languages
 - 🖥 Java and C 
 - 👨‍💻 :D
