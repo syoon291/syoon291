@@ -12,10 +12,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/syoon291)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/steven-y-916268180//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](...) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/syoon291)](https://github.com/syoon291/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/syoon291)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/syoon291&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syoon291)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/syoon291)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=syoon291&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/syoon291)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syoon291)  
+
+![Profile views](https://gpvc.arturio.dev/syoon291)  
