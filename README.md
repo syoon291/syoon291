@@ -1,8 +1,8 @@
 ## Hi there! My name is Steven 👋
-#### I am a Sophmore
+
 ![I am a Sophmore](https://github.com/syoon291/syoon291/blob/main/gw_horizontal_2c.png)
 
-I am currently a Sophmore studying Computer Science Student at Geroge Washington University. 
+#### I am currently a Sophmore studying Computer Science Student at Geroge Washington University. 
 
 - 🔭 I’m currently working on a Winter Project 
 #### Sophmore Year Courses List: 
@@ -12,7 +12,8 @@ I am currently a Sophmore studying Computer Science Student at Geroge Washington
 - 🖥 Java and C 
 - 👨‍💻 :D
 
-📫 How to reach me ... jacobroedel22@gwmail.gwu.edu
+📫 How to reach me syoon291@gwu.edu
+
 
 #### Here 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/syoon291)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/steven-y-916268180//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](...)  
