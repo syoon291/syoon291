@@ -13,7 +13,7 @@
 - 👨‍💻 :D
 
 ## Contact Info 
-  * syoon291@gwu.edu
+  * Feel Free to Email me: syoon291@gwu.edu
 
 
 ## Socials :) 
