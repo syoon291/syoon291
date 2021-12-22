@@ -28,7 +28,8 @@
 
 
 ### Page Stats (work on later for cool features)
-[![syoon291's GitHub stats](https://github-readme-stats.vercel.app/api?username=syoon291)](https://github.com/syoon291/github-readme-stats)
+[![syoon291's GitHub stats](https://github-readme-stats.vercel.app/api?username=syoon291&show_icons=true&theme=radical))](https://github.com/syoon291/github-readme-stats)
 
 [![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=syoon291)](https://github.com/syoon291/github-readme-stats)  
+
 
