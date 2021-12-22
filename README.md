@@ -12,7 +12,9 @@
 - 🖥 Java and C 
 - 👨‍💻 :D
 
-📫 How to reach me syoon291@gwu.edu
+### Contact Info 
+
+📫 syoon291@gwu.edu
 
 
 #### Here 
