@@ -18,6 +18,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=syoon291&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syoon291)  
-
 ![Profile views](https://gpvc.arturio.dev/syoon291)  
