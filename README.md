@@ -16,6 +16,7 @@
   - Database Systems (CSCI 2541W)
 #### Skills/Languages
 - 🖥 Java and C 
+- Learning to use html and css
 - 👨‍💻 :D
 
 ## Contact Info 
