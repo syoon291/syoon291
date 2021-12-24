@@ -2,7 +2,7 @@
 
 ![I am a Sophmore](https://github.com/syoon291/syoon291/blob/main/gw_horizontal_2c.png)
 
-#### I am currently a Sophmore studying Computer Science Student at Geroge Washington University. 
+#### I am currently a Sophmore studying Computer Science Student at George Washington University. 
 
 - 🔭 I’m currently working on a Winter Project 
 #### Sophmore Year Courses List: 
