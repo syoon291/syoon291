@@ -22,7 +22,7 @@
 ## Contact Info 
   * Feel Free to Email me: syoon291@gwu.edu
 ### Visit my WebSite (click the icon)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://syoon291.github.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://syoon291.github.io/myWebsite/)  
 
 
 ## Socials :) 
