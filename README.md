@@ -4,7 +4,7 @@
 
 #### I am currently a Sophmore studying Computer Science Student at George Washington University. 
 
-- 🔭 I’m currently working on a Winter Project 
+- 🔭 I’m currently working on a My Spring Semester at GW
 #### Sophmore Year Courses List: 
 - 📚 1st Semester Courses: 
   - Computer Architecture I (CSCI 2461)
@@ -16,7 +16,7 @@
   - Database Systems (CSCI 2541W)
 #### Skills/Languages
 - 🖥 Java and C 
-- Learning to use html and css
+- Python, Html, Css, Flask, and SQL
 - 👨‍💻 :D
 
 ## Contact Info 
