@@ -16,7 +16,7 @@
   - Database Systems (CSCI 2541W)
 #### Skills/Languages
 - 🖥 Java and C 
-- Python, Html, Css, Flask, and SQL
+- Python, Html, Css, Flask, and MySQL
 - 👨‍💻 :D
 
 ## Contact Info 
