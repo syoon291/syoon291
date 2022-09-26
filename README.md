@@ -2,9 +2,14 @@
 
 ![I am a Sophmore](https://github.com/syoon291/syoon291/blob/main/gw_horizontal_2c.png)
 
-#### I am currently a Sophmore studying Computer Science Student at George Washington University. 
+#### I am currently a Junior studying Computer Science Student at George Washington University. 
 
-- 🔭 I’m currently working on a My Spring Semester at GW
+- 🔭 I’m currently working on a My Fall Semester at GW
+#### Juinor Year Courses List: 
+- 📚 1st Semester Courses: 
+  - Computer Networks(CSCI 4431)
+  - Algorithms(CSCI 3212)
+  - Operating System Design (CSCI 3411) 
 #### Sophmore Year Courses List: 
 - 📚 1st Semester Courses: 
   - Computer Architecture I (CSCI 2461)
