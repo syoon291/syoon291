@@ -1,15 +1,43 @@
 # Hi there! My name is Steven Yoon👋
 
-![I am a Sophmore](https://github.com/syoon291/syoon291/blob/main/gw_horizontal_2c.png)
+![I am a Junior](https://github.com/syoon291/syoon291/blob/main/gw_horizontal_2c.png)
 
-#### I am currently a Junior studying Computer Science Student at George Washington University. 
+### I am currently a Junior studying Computer Science Student at George Washington University. 
 
-- 🔭 I’m currently working on a My Fall Semester at GW
+- 🔭 I’m currently working on a My Junior Spring Semester at GW
+- Winter 2022
+  - Initiated Prepping to Earn Certification for AWS Cloud Practitioner
+  - Updating my Resume with Newer Experiences
+    - Working on Descriptions
+  - Searching for Internship Opportunites for the Spring Cycle
+  - Updating LinkedIn with all my Experiences
+- Summer 2022
+  - Undergraduate Research Assitant at GW
+    - Working on various projects with the professor
+      - Creative Live Practice Problems and Shell Scripts for autograding student's submissions
+      - Creating a Course Website for an HCI focus class, which utilizes HCI principles
+  - Non Tech
+    - Coaching Private Swim Lessons for middle school/high school swimmers
+    - Coaching club practice of 10-15 Kids and teacher beginner swimmers
+-  Winter 2021
+  - Created and Decorated My Github
+  - Initiated to Learn more about HTML and CSS
+    - Created my first webpage about me
+  - Updated My LinkedIn with My Experiences
+
+---
 #### Juinor Year Courses List: 
 - 📚 1st Semester Courses: 
   - Computer Networks(CSCI 4431)
   - Algorithms(CSCI 3212)
   - Operating System Design (CSCI 3411) 
+  - Intermediate Economics (ECON 2101)
+- 💻 2nd Semester Courses: 
+  - Computer Graphics (CSCI 4554)
+  - Machine Learning (CSCI 4364)
+  - Engineering Analysis (Statistics) (APSC 3115)
+  - Financial Economics (ECON 2121)
+---
 #### Sophmore Year Courses List: 
 - 📚 1st Semester Courses: 
   - Computer Architecture I (CSCI 2461)
@@ -19,9 +47,12 @@
   - Systems Engineering (CSCI 3410)
   - Foundations of Computing (CSCI 3313)
   - Database Systems (CSCI 2541W)
+  - Ethical Issues in Computing (CSCI 2501)
+  - Linear Algebra (MATH 2184)
 #### Skills/Languages
 - 🖥 Java and C 
-- Python, Html, Css, Flask, and MySQL
+- Python, HTML, CSS, Flask, and MySQL
+- VIM, Visual Stuido Code
 - 👨‍💻 :D
 
 ## Contact Info 
