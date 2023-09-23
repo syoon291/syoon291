@@ -2,7 +2,7 @@
 
 ![I am a Senior](https://github.com/syoon291/syoon291/blob/main/gw_horizontal_2c.png)
 
-### I am currently a Junior studying Computer Science Student at George Washington University. 
+### I am a Computer Science Student at George Washington University. 
 
 - 🔭 I’m currently working on BS in CS at GW
 - Winter 2022
