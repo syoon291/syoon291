@@ -1,10 +1,10 @@
 # Hi there! My name is Steven Yoon👋
 
-![I am a Junior](https://github.com/syoon291/syoon291/blob/main/gw_horizontal_2c.png)
+![I am a Senior](https://github.com/syoon291/syoon291/blob/main/gw_horizontal_2c.png)
 
 ### I am currently a Junior studying Computer Science Student at George Washington University. 
 
-- 🔭 I’m currently working on a My Junior Spring Semester at GW
+- 🔭 I’m currently working on BS in CS at GW
 - Winter 2022
   - Initiated Prepping to Earn Certification for AWS Cloud Practitioner
   - Updating my Resume with Newer Experiences
