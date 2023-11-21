@@ -34,20 +34,20 @@
 
 #### Senior Year Courses List: 
 - 📚 Fall Semester Courses: 
-  - Computer Networks(CSCI 4431)
-  - Algorithms(CSCI 3212)
-  - Operating System Design (CSCI 3411) 
-  - Intermediate Economics (ECON 2101)
+  - Software Design Hand Held Devices (CSCI 4237)
+  - Intro to Communications (Comm 1025)
+  - Intermediate Macro-Economics (Econ 2102) 
+  - Capstone Design Project 1 (CSCI 4243)
 - 💻 Spring Semester Courses: 
-  - Computer Graphics (CSCI 4554)
-  - Machine Learning (CSCI 4364)
-  - Engineering Analysis (Statistics) (APSC 3115)
-  - Financial Economics (ECON 2121)
+  - Computer Game Design & Programming (CSCI 4455)
+  - Stress Management (HLWL 1102)
+  - International Trade Theory and Macro Policy (Econ 2181) 
+  - Capstone Design Project 2 (CSCI 4244)
 ---
 #### Juinor Year Courses List: 
 - 📚 Fall Semester Courses: 
   - Computer Networks(CSCI 4431)
-  - Algorithms(CSCI 3212)
+  - Algorithms (CSCI 3212)
   - Operating System Design (CSCI 3411) 
   - Intermediate Economics (ECON 2101)
 - 💻 Spring Semester Courses: 
