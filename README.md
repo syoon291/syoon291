@@ -26,8 +26,13 @@ Full-stack developer turned data engineer, now working with generative AI and ag
 - **2022** · Undergraduate Research Assistant, **GW**: auto-graders for student code and an HCI course website
 - **Always** · Swim coach, from private lessons to club practices
 
-#### 🧰 Toolbox
+#### 🧰 Stacks I've built with
 
-`Python` `SQL` `JavaScript` `Java` `C` `Kotlin` · `Flask` `MySQL` `REST` `AWS` `MuleSoft` · `LLMs` `Claude` `Generative AI` · `Git` `TeamCity` `Postman`
+- **Full-stack web:** `Python` `Flask` `MySQL` `HTML/CSS/JS`
+- **Frontend & PWAs:** `Vanilla JS` `SVG` `Service workers` `Web Speech API`
+- **Data engineering & cloud:** `Python` `SQL` `AWS` `REST APIs` `MuleSoft`
+- **AI & agentic dev:** `LLMs` `Claude` `Generative AI` `Agentic frameworks` `Claude Code / MCP`
+- **DevOps & tooling:** `Git` `GitHub Actions` `TeamCity` `Node.js` `Shell` `Postman`
+- **Also:** `Java` `C` `Kotlin` `Android Studio`
 
 <sub>My original 2023 profile README is kept in [archive/README-2023.md](archive/README-2023.md).</sub>
