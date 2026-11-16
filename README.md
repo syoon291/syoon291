@@ -1,9 +1,9 @@
 ### Hi, I'm Steven 👋
 
-Software engineer in **Tokyo** 🇯🇵 · George Washington University, B.S. Computer Science, minor in Economics.
-I build small tools that make hard things feel doable, and I'm learning Japanese by ear.
+**Data Scientist / Software Engineer @ Booz Allen Hamilton** · on-site in **Japan** 🇯🇵
+George Washington University, B.S. Computer Science, minor in Economics.
 
-<!-- TODO: add your current role, e.g. "Currently: software engineer at ___" -->
+Full-stack developer turned data engineer, now working with generative AI and agentic frameworks. On the side I build small tools that make hard things feel doable, and I'm learning Japanese by ear.
 
 **🌐 [syoon291.github.io](https://syoon291.github.io/)** · [LinkedIn](https://www.linkedin.com/in/syoon291) · [Email](mailto:syoon291@gwu.edu)
 
@@ -20,12 +20,14 @@ I build small tools that make hard things feel doable, and I'm learning Japanese
 
 #### 🧭 Recently
 
+- **2025–now** · Data Scientist, Senior Consultant, **Booz Allen Hamilton** (Japan)
+- **2024** · Software Engineer, Consultant, **Booz Allen Hamilton**: TechEx data engineering program, then an AI capstone on generative AI and agentic frameworks
 - **2023** · Application Development Intern, **PenFed Credit Union**: moved encryption APIs from AWS to MuleSoft, cleaned up CI/CD pipelines in TeamCity
 - **2022** · Undergraduate Research Assistant, **GW**: auto-graders for student code and an HCI course website
 - **Always** · Swim coach, from private lessons to club practices
 
 #### 🧰 Toolbox
 
-`Java` `Python` `C` `JavaScript` `Kotlin` `SQL` · `Flask` `MySQL` `REST` `MuleSoft` `AWS` · `Git` `TeamCity` `Postman` `Android Studio`
+`Python` `SQL` `JavaScript` `Java` `C` `Kotlin` · `Flask` `MySQL` `REST` `AWS` `MuleSoft` · `LLMs` `Claude` `Generative AI` · `Git` `TeamCity` `Postman`
 
 <sub>My original 2023 profile README is kept in [archive/README-2023.md](archive/README-2023.md).</sub>
